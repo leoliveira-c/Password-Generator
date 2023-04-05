@@ -1,2 +1,2 @@
 # Password Generator
- Study project using HTML, CSS and JS
+interesting study project using some Math() functions in javascript and DOM manipulation to get a random password for the user.
